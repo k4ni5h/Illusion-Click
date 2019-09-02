@@ -29,6 +29,10 @@
   -webkit-transform: translate3d(-50%, -50%, 0);
   transform: translate3d(-50%, -50%, 0);
 }
+.leader-table {
+  position: absolute;
+  z-index: 5;
+}
 .demo-1 .main-title {
   text-transform: uppercase;
   font-size: 4.2em;
