@@ -19,7 +19,7 @@
   color: #f9f1e9;
   text-align: center;
   top:50%;
-  left: 50%;
+  left: 25%;
   -webkit-transform: translate3d(-50%, -50%, 0);
   transform: translate3d(-50%, -50%, 0);
 }
