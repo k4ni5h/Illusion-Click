@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "322e74d7d7de26234702d1888ef25000",
+    "content-hash": "ae5317ace1723b14c99e8f64d94e3eb2",
     "packages": [
         {
             "name": "herrera-io/pdo-log",
