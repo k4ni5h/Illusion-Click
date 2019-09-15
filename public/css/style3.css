@@ -3,7 +3,7 @@
 body {
   background: #14685b;
   font-family: 'Fauna One', serif;
-  overflow-x: hidden;
+  overflow: hidden;
 }
 
 h1 {
