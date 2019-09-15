@@ -2,6 +2,11 @@ html{
   overflow-x:hidden;
   font-family:Verdana;
 }
+body {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
 
 ::-webkit-scrollbar {
     opacity:0;
