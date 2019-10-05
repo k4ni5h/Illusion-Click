@@ -3,6 +3,7 @@
 body {
   background: #14685b;
   font-family: 'Fauna One', serif;
+  overflow: hidden;
 }
 
 h1 {
@@ -13,7 +14,7 @@ h1 {
   padding: 15px;
   border-radius: 35px;
   width: 60%;
-  margin: auto;
+  margin: 200px auto;
 }
 
 i {

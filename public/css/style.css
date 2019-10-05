@@ -2,11 +2,6 @@ html{
   overflow-x:hidden;
   font-family:Verdana;
 }
-body {
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
-}
 
 ::-webkit-scrollbar {
     opacity:0;
@@ -35,11 +30,12 @@ header{
 
 footer{
   width:100vw;
+  margin-left:-8px;
+  
+  padding:0px 0px 4px 0px;
   color:#222;
   color:white;
   text-align:center;
-  background-color: #222222;
-  vertical-align: bottom;
-  margin: 0px;
-  padding: 5px;
+  height:30px;
+    
 }
