@@ -1,4 +1,4 @@
-Are your eyes perfect? so check it on https://illusion-click.herokuapp.com/ by my game.
+Are your eyes perfect? so check it on https://illusionclick.herokuapp.com/ by my game.
 Rules:
 In this game there is a grey-colored grid in which black or
 white dots will spawn randomly at its junctions . You have to
